@@ -19,4 +19,6 @@ export class Restaurant {
     this.rating=obj&&obj.rating || 0;
 	}
 
+  let asd:string = "";
+
 }
